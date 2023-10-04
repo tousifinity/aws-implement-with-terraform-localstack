@@ -1,4 +1,4 @@
-# AWS-implement-with-Terraform-localstack
+# AWS Implement with Terraform localstack
 ## localstack Installation and starting
 pip install localstack
 localstack start
